@@ -18,4 +18,4 @@ npm run build
 
 ## Content
 
-Business copy, prices, the phone number, and the canonical URL placeholder live in `lib/site.ts`. The canonical origin is `https://clima-athens-pro.example` until the production domain is set.
+Business copy, prices, and the phone number live in `lib/site.ts`. The production site is [https://climaathenspro.vercel.app](https://climaathenspro.vercel.app).

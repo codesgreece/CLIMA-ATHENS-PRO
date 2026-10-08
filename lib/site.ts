@@ -1,10 +1,6 @@
-/**
- * Canonical URL is a placeholder until the live domain is known.
- * Replace `url` with the production origin before launch.
- */
 export const site = {
   name: "CLIMA ATHENS PRO",
-  url: "https://clima-athens-pro.example",
+  url: "https://climaathenspro.vercel.app",
   title:
     "CLIMA ATHENS PRO | Ψυκτικός Αθήνα & Αττική | Εγκατάσταση & Service Κλιματιστικών",
   description:
